@@ -13,7 +13,7 @@ This project has been developed in the Department of Engineering of the [Univers
 
 [Yamuna Maccarana](https://github.com/yamunamaccarana), student;
 
-Luca Calomeni, student;
+[Luca Calomeni](https://github.com/meniy), student;
 
 Manuel Facchinetti, student.
 
