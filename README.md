@@ -17,4 +17,4 @@ This project has been developed in the Department of Engineering of the [Univers
 
 Manuel Facchinetti, student.
 
-For further details on documentation, please [contact me](mailto: yamuna.maccarana@gmail.com).
+For further details on documentation, please [contact me](mailto: yamuna.maccarana@unibg.it).
